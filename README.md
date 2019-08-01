@@ -1,2 +1,1 @@
-# DBMS-Server
-## [DBMS Client](https://github.com/brennanfife/DBMS-Client/)
+## Click [HERE](https://github.com/brennanfife/DBMS-Client/) to access the DBMS Client
